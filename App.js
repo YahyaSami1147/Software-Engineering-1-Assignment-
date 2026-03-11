@@ -608,7 +608,7 @@ export default function App() {
             <div className="logo-area">
               <div className="logo-icon">🎓</div>
               <div>
-                <div className="logo-title">EduTrack</div>
+                <div className="logo-title">Assignment 1</div>
                 <div className="logo-sub">Attendance Management</div>
               </div>
             </div>
